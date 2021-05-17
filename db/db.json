@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "nom": "Feuzme",
+      "prenom": "Fyfe",
+      "age": 12
+    },
+    {
+      "nom": "Bizarre",
+      "prenom": "Jojo",
+      "age": "41",
+      "id": 7
+    },
+    {
+      "nom": "Gihjrfgiou",
+      "prenom": "efzefzef",
+      "age": 0,
+      "id": 8
+    }
+  ]
+}

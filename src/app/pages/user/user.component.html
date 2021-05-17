@@ -1,0 +1,5 @@
+<div *ngIf="user != null">
+    {{user.nom}} {{user.prenom}}
+    <button (click)= 'delete()'>Supprimer l'utilisateur</button>
+    <button routerLink="/users">Retour</button>
+</div>
